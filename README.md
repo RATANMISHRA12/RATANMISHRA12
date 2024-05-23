@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kumar.ratan2557@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rXGCNbRWDa8crAkQ6V7yFxfG3SqAfiDz/view?usp=drivesdk](https://drive.google.com/file/d/1rXGCNbRWDa8crAkQ6V7yFxfG3SqAfiDz/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rXGCNbRWDa8crAkQ6V7yFxfG3SqAfiDz/view?usp=drivesdk)
 
 
 <p align="left">
