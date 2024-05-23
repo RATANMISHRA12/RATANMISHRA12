@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratan Kumar</h1>
-<h3 align="center">I am currently pursuing Master of Technology in Computer Science and Engineering from Sardar Vallabhbhai National Institute of Technology.</h3>
+<h3 align="center">I am currently pursuing Master of Technology in Computer Science and Engineering from Sardar Vallabhbhai National Institute of Technology,Surat.</h3>
 
 - 🌱 I’m currently learning **React Native,Blockchain,Cloud Computing**
 
